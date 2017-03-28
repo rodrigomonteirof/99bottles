@@ -1,5 +1,5 @@
-require './app/models/bottle'
+require './app/models/bottle_original'
 
-bottle = Bottle.new
+bottle_original = BottleOriginal.new
 
-puts bottle.song
+puts bottle_original.song

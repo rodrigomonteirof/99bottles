@@ -1,4 +1,4 @@
-class Bottle
+class BottleOriginal
   attr_accessor :song
 
   def initialize
